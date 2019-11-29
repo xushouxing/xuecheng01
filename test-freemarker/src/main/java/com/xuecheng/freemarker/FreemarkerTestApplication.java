@@ -9,6 +9,7 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 public class FreemarkerTestApplication {
     public static void main(String[] args) {
+
         SpringApplication.run(FreemarkerTestApplication.class,args);
     }
     @Bean
